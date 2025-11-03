@@ -25,7 +25,7 @@ Limitation:
 During t0, only pMOS transistors contribute to transconductance, reducing regeneration speed and increasing metastability and energy consumption.
 
 # Circuit Implementation
-<img width="1209" height="803" alt="ss_crop" src="https://github.com/user-attachments/assets/969e0633-4397-424a-8df3-1e07f1ca0920" />
+<img width="867" height="641" alt="ss2_crop" src="https://github.com/user-attachments/assets/ac1b350b-0bb7-4548-9d0a-50c963b3eada" />
 
 
 
